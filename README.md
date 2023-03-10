@@ -11,16 +11,13 @@
 
 ---
 
-![Untitled](%E1%84%8D%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A1%E1%86%AB%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%2077e15b2941bb40feb9be95f331aa6a51/Untitled.png)
-
-![Untitled](%E1%84%8D%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A1%E1%86%AB%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%2077e15b2941bb40feb9be95f331aa6a51/Untitled%201.png)
-
-![Untitled](%E1%84%8D%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A1%E1%86%AB%20%E1%84%8F%E1%85%B5%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%2077e15b2941bb40feb9be95f331aa6a51/Untitled%202.png)
-
+<img src="Docs/Untitled.png">
 캐릭터 구매 화면
 
+<img src="Docs/Untitled 1.png">
 캐릭터 회상 화면
 
+<img src="Docs/Untitled 2.png">
 로비 화면
 
 ## 👥 팀원

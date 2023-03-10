@@ -12,12 +12,15 @@
 ---
 
 <img src="Docs/Untitled.png">
+
 캐릭터 구매 화면
 
 <img src="Docs/Untitled 1.png">
+
 캐릭터 회상 화면
 
 <img src="Docs/Untitled 2.png">
+
 로비 화면
 
 ## 👥 팀원

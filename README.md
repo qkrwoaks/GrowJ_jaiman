@@ -2,8 +2,9 @@
 
 💡 **짜이만 키우기**는 거지키우기를 패러디한 **방치형 클리커 2D 게임**입니다. <br>
 <br>
-📆 진행 기간 : 2021.11 ~ 2022.01 (약 3개월)
-
+📆 진행 기간 : 2021.11 ~ 2022.01 (약 3개월)<br>
+<br>
+[프로젝트 Repository 가기](https://github.com/qkrwoaks/Grow_Jjaiman_Development/settings)
 ## 🔎 인게임
 
 <img src="Docs/Untitled.png">

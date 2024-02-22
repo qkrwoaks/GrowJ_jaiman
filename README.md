@@ -4,7 +4,7 @@
 <br>
 📆 진행 기간 : 2021.11 ~ 2022.01 (약 3개월)<br>
 <br>
-[프로젝트 Repository 가기](https://github.com/qkrwoaks/Grow_Jjaiman_Development/settings)
+[프로젝트 Repository 가기](https://github.com/qkrwoaks/Grow_Jjaiman_Development)
 ## 🔎 인게임
 
 <img src="Docs/Untitled.png">
